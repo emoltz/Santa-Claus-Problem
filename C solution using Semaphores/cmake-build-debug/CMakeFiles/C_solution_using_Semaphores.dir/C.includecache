@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ethanshafranmoltz/Documents/GitHub/Santa-Claus-Problem/C solution using Semaphores/SantaClaus.c
+pthread.h
+-
+stdlib.h
+-
+assert.h
+-
+unistd.h
+-
+stdio.h
+-
+stdbool.h
+-
+semaphore.h
+-
+
